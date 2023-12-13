@@ -1,1 +1,2 @@
-print("ADO MOPUR")
+voiture=['bmw','mercedes', 'audi']
+print(voiture)
