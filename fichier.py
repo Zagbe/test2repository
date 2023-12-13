@@ -1,5 +1,1 @@
-print("hello"
-givjvbvbkrbvkvbkbvkbvjkbvjkbjrkvb jbvjvbjvbrjvbjrvb
-nkevnkerjkjv
-jevkevnkvnejkvkvkvbkr
-vnkevnkvnkjvjrk)
+print("ADO MOPUR")
